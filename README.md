@@ -12,7 +12,7 @@ I’m continually improving my skills in **Python** 🐍 for backend development
 
 ### **Ask me about:**
 
-* **How to secure your passwords** 🔐: Best practices for creating strong, unbreakable passwords and managing them securely.
+* **How to secure your passwords** 🔐: Best practices for creating strong passwords that are harder to crack and managing them with extra security precautions.
 * **Covering up tracks** 🕵️‍♂️: Techniques for maintaining privacy and security while using the internet.
 * **Crafting AI-optimized prompts** 🤖: How to create precise, effective prompts for AI models to get the best possible results.
 * **Using AI the right way** 💡: Guidelines for leveraging AI to solve real-world problems effectively, ethically, and efficiently.
