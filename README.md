@@ -1,18 +1,31 @@
 # 💫 About Me:
 
-Hey, I’m a developer and cybersecurity enthusiast working on innovative solutions to transform learning and digital security. 👨‍💻🔐
+Hi, I’m a passionate **developer** and **cybersecurity enthusiast** focused on creating impactful solutions to revolutionize both learning experiences and digital security. With a strong foundation in **AI**, I specialize in crafting intuitive applications that bridge the gap between education and technology. 👨‍💻🔐
 
-I'm currently working on:
-**EDUassist**—an app to revolutionize learning with **AI** 🤖 and real-time chat interactions 🗣️.
+### **I'm currently working on:**
 
-I'm currently learning:
-**Python** 🐍, **Flutter** 📱, **web app penetration testing** 🛠️, and **Linux** 🐧 to enhance my skills in both development and cybersecurity.
+**EDUassist**: an innovative app designed to enhance student learning by integrating **AI-powered summarization**, **speech-to-text**, **OCR**, and real-time **chat interactions**. My goal is to transform the learning process, making it more accessible and effective for students worldwide. 🤖🗣️
 
-Ask me about:
-**Flutter development** ⚙️, **AI applications in education** 📚, **blue team defense strategies** 🛡️, or how to optimize AI-driven apps! 🚀
+### **I'm currently learning:**
 
-Fun fact:
-Call me **Poseidon**, because I’m all about diving deep into tech and creating waves of change! 🌊
+I’m continually improving my skills in **Python** 🐍 for backend development, **Flutter** 📱 for cross-platform app development, **web app penetration testing** 🛠️ to enhance my cybersecurity skills, and **Linux** 🐧 to further strengthen my expertise in system administration and security.
+
+### **Ask me about:**
+
+* **How to secure your passwords** 🔐: Best practices for creating strong, unbreakable passwords and managing them securely.
+* **Covering up tracks** 🕵️‍♂️: Techniques for maintaining privacy and security while using the internet.
+* **Crafting AI-optimized prompts** 🤖: How to create precise, effective prompts for AI models to get the best possible results.
+* **Using AI the right way** 💡: Guidelines for leveraging AI to solve real-world problems effectively, ethically, and efficiently.
+* **Vulnerabilities I’ve found in popular websites** 🌐: Insights on common security flaws and how to protect against them.
+
+### **Fun fact:**
+
+Feel free to call me **Poseidon**, as I dive deep into the vast ocean of technology, making waves of change in both development and cybersecurity! 🌊
+
+### **Additional skills and expertise:**
+
+* **Prompt Crafting**: I excel at crafting well-structured prompts that drive meaningful results in AI and machine learning models.
+* **Vibe Coder**: I embrace a creative, flexible approach to coding, focusing on building enjoyable, functional, and scalable solutions that resonate with users.
 
 ---
 
