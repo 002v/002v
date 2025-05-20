@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖:
 
 Hi, I’m a passionate **developer** and **cybersecurity enthusiast** focused on creating impactful solutions to revolutionize both learning experiences and digital security. With a strong foundation in **AI**, I specialize in crafting intuitive applications that bridge the gap between education and technology. 👨‍💻🔐
 
